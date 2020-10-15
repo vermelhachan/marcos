@@ -1,2 +1,0 @@
-# marcos
-Um código Ruby.
